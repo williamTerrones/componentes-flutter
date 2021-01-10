@@ -33,6 +33,7 @@ dependencies:
   circular_bottom_navigation:
   flutter_colorpicker:
   curved_navigation_bar:
+  fl_radial_menu:
 
 dev_dependencies:
   flutter_test:
