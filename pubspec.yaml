@@ -30,6 +30,7 @@ dependencies:
   cupertino_icons: ^1.0.0
   bubble_bottom_bar:
   widget_with_codeview:
+  circular_bottom_navigation:
 
 dev_dependencies:
   flutter_test:
