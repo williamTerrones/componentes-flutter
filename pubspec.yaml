@@ -31,6 +31,7 @@ dependencies:
   bubble_bottom_bar:
   widget_with_codeview:
   circular_bottom_navigation:
+  flutter_colorpicker:
 
 dev_dependencies:
   flutter_test:
