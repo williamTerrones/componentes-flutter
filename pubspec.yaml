@@ -32,6 +32,7 @@ dependencies:
   widget_with_codeview:
   circular_bottom_navigation:
   flutter_colorpicker:
+  curved_navigation_bar:
 
 dev_dependencies:
   flutter_test:
